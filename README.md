@@ -1,6 +1,7 @@
 # MovieList - Catálogo de Filmes
 
 Um catálogo de filmes desenvolvido em React com TypeScript para organizar e descobrir novos filmes.
+Criado por: Virgínia Bandeira e Anna Beatriz
 
   *Funcionalidades:
 - Lista de filmes com avaliações
