@@ -22,7 +22,7 @@ Um catálogo de filmes desenvolvido em React com TypeScript para organizar e des
 
 ```bash
  1. Clone o repositório
-git clone https://github.com/seu-usuario/movie-list.git
+git clone https://github.com/vizaps/movie-list.git
 
 2. Entre na pasta
 cd movie-list
