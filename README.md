@@ -1,4 +1,4 @@
-# 🎬 MovieList - Catálogo de Filmes
+# MovieList - Catálogo de Filmes
 
 Um catálogo de filmes desenvolvido em React com TypeScript para organizar e descobrir novos filmes.
 
